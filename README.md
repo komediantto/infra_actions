@@ -1,2 +1,2 @@
 # infra_actions
-Учебный проект для изучения работы GitHub Actions (Яндекс Практикум)
+A training project to study the work of GitHub Actions
